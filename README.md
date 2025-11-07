@@ -1,3 +1,6 @@
+# Strategy
+Strategy usando java
+
 ```java
 public interface PayStrategy {
     boolean pay(int paymentAmount);
